@@ -1,64 +1,64 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://dipchakraborty.dev/) 
-<p align="center">
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://dipchakraborty.dev/)
+
+<div align="center">
+
 <img src="https://githubvisitcounter.dipchakraborty.dev/api/profile-views?username=dipcb05&label=Profile+views&color=0e75b6&style=flat&mode=unique&ttl=21600" alt="dipcb05 profile views" />
+
+# This is Dip Chakraborty
+
+![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=1000&lines=Two+perpendicular+things+share+nothing!;Nudge+one+and+the+other+doesn't+even+blink!;So+dippendicular+sits+at+right+angles!;I+think+in+products.;And+I+help+businesses+get+better.)
+
+</div>
+
+<br>
+
+## What I'm doing right now
+
+| Project | Description |
+| :------ | :---------- |
+| [**Okytes**](https://github.com/dippendicular/okytes) | A free, open-source, **Rust-powered download manager** with adaptive parallel downloads, crash-safe resume, integrity verification, and browser integration. |
+| [**llmesh**](https://github.com/dippendicular/llmesh) | A multi-provider LLM router. One door, many models, zero "which API key was that again?" |
+| [**ainvoke**](https://github.com/dippendicular/ainvoke) | An AI-powered API debugger and tester. For when the bug is in the request, the response, or your confidence. |
+
+<br>
+
+## The tools
+
+`FastAPI` · `Fastify` · `Laravel` · `Vue` · `Next.js` · `Rust` · `LangChain` · `LangGraph` · `MCP` · `Ollama` · `PyTorch` · `PostgreSQL` · `Redis` · `Qdrant` · `Kafka` · `Docker` · `Kubernetes`
+
+<br>
+
+<p align="center">
+  <i>.....Huh. Now do all of these matter?</i><br>
+  <b>You do it with a prompt!</b>
 </p>
 
-<h1 align="center">This is Dip Chakraborty</h1>
-<h3 align="center">Software Engineer who turns ambiguous requirements into production systems</h3>
+<br>
+
+## I do expertise in
+
+`LLMs & RAG` · `Multipurpose AI Agents` · `Distributed Systems` · `Computer Vision` · `System Architecture` · `Complex Deployment Design` · `DevOps`
+
+<br>
+
+## What I'm into
+
+Business analysis & development · Product management & design · Sustainable strategy & planning
+
+I like sitting at the spot where the business question meets the architecture diagram.
+
+<br>
+
+## Let's Connect
+
+[Website](https://dipchakraborty.dev/) · [Email](mailto:connect@dipchakraborty.dev) · [LinkedIn](https://linkedin.com/in/dipcb05) · [Blog](https://writings.dipchakraborty.com/)
+
+<br>
 
 ---
 
-I work on backend systems, enterprise integrations, and AI applications. Whether extending existing platforms or building systems from scratch, I focus on understanding business constraints, existing architectures, and ambiguous requirements, then designing pragmatic solutions that introduce new capabilities without disrupting production.
-
-Over the past five years, I've delivered B2B SaaS platforms across:
-
-- IoT-powered secure access control systems serving 2,000+ employees daily
-- Workforce management platforms supporting thousands of users
-- CRM and HRM solutions managing 15,000+ records
-- AI-enhanced e-commerce platforms with RAG-based product discovery and AR-assisted product visualization
-- Workflow automation systems using n8n, enabling business teams to configure and automate operational processes
-- Multi-tenant AI-powered customer support assistants handling tens of thousands of customer queries per day
-
----
-
-### Currently building
-
-**[cadre](https://github.com/dipcb05/cadre)** - a modular framework for securing LLM/RAG applications against adversarial and injection risks, based on security patterns observed in enterprise RAG deployments.
-
----
-
-### Stack I regularly use
-
-Backend → FastAPI • Fastify • Laravel  
-Frontend → Vue.js • Next.js • Alpine.js  
-
-AI → LangChain • LangGraph • MCP • Ollama  
-ML → PyTorch • TensorFlow  
-
-Data & Cache → PostgreSQL • MySQL • MongoDB • Redis • Qdrant  
-Search & Analytics → Elasticsearch • Logstash • Kibana  
-
-Messaging & Queue → RabbitMQ • Kafka  
-Authentication → Keycloak • Auth0 • Firebase Auth  
-
-Storage → MinIO • GCP Storage • Cloudflare R2 • Vercel Blob  
-
-Cloud → AWS • GCP • Azure • DigitalOcean  
-Deployment & Infra → Docker • Kubernetes • Nginx • Apache  
-
-Monitoring → Datadog • Grafana • Prometheus  
-
-Testing & API → Postman • Bruno • OpenAPI  
-
----
-
-### Get in touch
-
-- Website → [dipchakraborty.dev](https://dipchakraborty.dev)
-- Email → [connect@dipchakraborty.dev](mailto:connect@dipchakraborty.dev)
-- LinkedIn → [linkedin.com/in/dipcb05](https://linkedin.com/in/dipcb05)
-- Blog → [writings.dipchakraborty.com](https://writings.dipchakraborty.com)
-
----
-
-> Maintainable systems matter more than clever designs.
+<p align="center">
+  <i>Maintainable systems matter more than clever designs.<br>
+  And the best angle between two services is 90°. ⊥</i>
+</p>
