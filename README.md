@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ## What I'm doing right now
 
 | Project | Description |
@@ -21,26 +19,18 @@
 | [**llmesh**](https://github.com/dippendicular/llmesh) | A multi-provider LLM router. One door, many models, zero "which API key was that again?" |
 | [**ainvoke**](https://github.com/dippendicular/ainvoke) | An AI-powered API debugger and tester. For when the bug is in the request, the response, or your confidence. |
 
-<br>
-
 ## The tools
 
 `FastAPI` · `Fastify` · `Laravel` · `Vue` · `Next.js` · `Rust` · `LangChain` · `LangGraph` · `MCP` · `Ollama` · `PyTorch` · `PostgreSQL` · `Redis` · `Qdrant` · `Kafka` · `Docker` · `Kubernetes`
-
-<br>
 
 <p align="center">
   <i>.....Huh. Now do all of these matter?</i><br>
   <b>You do it with a prompt!</b>
 </p>
 
-<br>
-
 ## I do expertise in
 
 `LLMs & RAG` · `Multipurpose AI Agents` · `Distributed Systems` · `Computer Vision` · `System Architecture` · `Complex Deployment Design` · `DevOps`
-
-<br>
 
 ## What I'm into
 
@@ -48,13 +38,9 @@ Business analysis & development · Product management & design · Sustainable st
 
 I like sitting at the spot where the business question meets the architecture diagram.
 
-<br>
-
 ## Let's Connect
 
 [Website](https://dipchakraborty.dev/) · [Email](mailto:connect@dipchakraborty.dev) · [LinkedIn](https://linkedin.com/in/dipcb05) · [Blog](https://writings.dipchakraborty.com/)
-
-<br>
 
 ---
 
